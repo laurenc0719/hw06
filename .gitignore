@@ -1,0 +1,4 @@
+
+# raw Wildcat Capital data (top-level only; reports/*.csv are still committed)
+/*.csv
+__pycache__/
